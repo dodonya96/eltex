@@ -1,2 +1,7 @@
 language: c
-compiler: gcc
+compiler: 
+  -gcc
+branches:
+  only:
+  -Calculator
+
