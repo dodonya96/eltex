@@ -3,4 +3,4 @@ compiler:
   -gcc
 branches:
   only:
-  -Calculator
+  -master
