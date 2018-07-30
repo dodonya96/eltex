@@ -1,6 +1,5 @@
 language: c
-compiler: 
-  -gcc
+script: make
 branches:
   only:
   -master
